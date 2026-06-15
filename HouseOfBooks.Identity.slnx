@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HouseOfBooks.Identity.API/HouseOfBooks.Identity.API.csproj" />
+    <Project Path="src/HouseOfBooks.Identity.Application/HouseOfBooks.Identity.Application.csproj" />
+    <Project Path="src/HouseOfBooks.Identity.Domain/HouseOfBooks.Identity.Domain.csproj" />
+    <Project Path="src/HouseOfBooks.Identity.Infrastructure/HouseOfBooks.Identity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HouseOfBooks.Identity.Tests/HouseOfBooks.Identity.Tests.csproj" />
+  </Folder>
+</Solution>

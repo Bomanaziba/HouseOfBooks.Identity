@@ -1,0 +1,6 @@
+{
+  "HouseOfBooks.Identity.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/bomanaziba.ogoni\/Public\/Projects\/HouseOfBooks.Identity\/src\/HouseOfBooks.Identity.API",
+  "HouseOfBooks.Identity.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/bomanaziba.ogoni\/Public\/Projects\/HouseOfBooks.Identity\/src\/HouseOfBooks.Identity.Application",
+  "HouseOfBooks.Identity.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/bomanaziba.ogoni\/Public\/Projects\/HouseOfBooks.Identity\/src\/HouseOfBooks.Identity.Domain",
+  "HouseOfBooks.Identity.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/bomanaziba.ogoni\/Public\/Projects\/HouseOfBooks.Identity\/src\/HouseOfBooks.Identity.Infrastructure"
+}

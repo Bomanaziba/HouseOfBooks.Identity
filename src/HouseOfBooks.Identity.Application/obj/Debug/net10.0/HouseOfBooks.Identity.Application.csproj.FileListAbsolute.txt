@@ -1,0 +1,15 @@
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/bin/Debug/net10.0/HouseOfBooks.Identity.Application.deps.json
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/bin/Debug/net10.0/HouseOfBooks.Identity.Application.dll
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/bin/Debug/net10.0/HouseOfBooks.Identity.Application.pdb
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/bin/Debug/net10.0/HouseOfBooks.Identity.Domain.dll
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/bin/Debug/net10.0/HouseOfBooks.Identity.Domain.pdb
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.csproj.AssemblyReference.cache
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.AssemblyInfoInputs.cache
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.AssemblyInfo.cs
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.csproj.CoreCompileInputs.cache
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfB.3E820E71.Up2Date
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.dll
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/refint/HouseOfBooks.Identity.Application.dll
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/HouseOfBooks.Identity.Application.pdb
+/Users/bomanaziba.ogoni/Public/Projects/HouseOfBooks.Identity/src/HouseOfBooks.Identity.Application/obj/Debug/net10.0/ref/HouseOfBooks.Identity.Application.dll
